@@ -1,0 +1,11 @@
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\bin\Release\net8.0\Shared.deps.json
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\bin\Release\net8.0\Shared.dll
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\bin\Release\net8.0\Shared.pdb
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\obj\Release\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\obj\Release\net8.0\Shared.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\obj\Release\net8.0\Shared.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\obj\Release\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\obj\Release\net8.0\Shared.dll
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\obj\Release\net8.0\refint\Shared.dll
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\obj\Release\net8.0\Shared.pdb
+C:\Users\eldareey\Desktop\HangFireApplication\HangFireApplication\Shared\obj\Release\net8.0\ref\Shared.dll
